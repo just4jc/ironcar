@@ -6,3 +6,4 @@ h5py==2.7.0
 flask==0.12.2
 flask_socketio==2.9.3
 Pillow==5.1.0
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
