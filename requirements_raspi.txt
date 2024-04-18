@@ -1,7 +1,7 @@
 numpy
 Adafruit_PCA9685
 picamera
-keras==1.2.0
+keras==2.13.1rc0
 h5py==2.7.0
 flask==0.12.2
 flask_socketio==2.9.3
